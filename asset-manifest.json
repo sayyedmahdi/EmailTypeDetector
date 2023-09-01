@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sayyedmahdi/EmailTypeDetector/static/css/main.df42a42d.css",
-    "main.js": "/sayyedmahdi/EmailTypeDetector/static/js/main.a2374fb0.js",
-    "static/js/787.13cc4c64.chunk.js": "/sayyedmahdi/EmailTypeDetector/static/js/787.13cc4c64.chunk.js",
-    "index.html": "/sayyedmahdi/EmailTypeDetector/index.html",
-    "main.df42a42d.css.map": "/sayyedmahdi/EmailTypeDetector/static/css/main.df42a42d.css.map",
-    "main.a2374fb0.js.map": "/sayyedmahdi/EmailTypeDetector/static/js/main.a2374fb0.js.map",
-    "787.13cc4c64.chunk.js.map": "/sayyedmahdi/EmailTypeDetector/static/js/787.13cc4c64.chunk.js.map"
+    "main.css": "/EmailTypeDetector/static/css/main.df42a42d.css",
+    "main.js": "/EmailTypeDetector/static/js/main.a5c4cee4.js",
+    "static/js/787.13cc4c64.chunk.js": "/EmailTypeDetector/static/js/787.13cc4c64.chunk.js",
+    "index.html": "/EmailTypeDetector/index.html",
+    "main.df42a42d.css.map": "/EmailTypeDetector/static/css/main.df42a42d.css.map",
+    "main.a5c4cee4.js.map": "/EmailTypeDetector/static/js/main.a5c4cee4.js.map",
+    "787.13cc4c64.chunk.js.map": "/EmailTypeDetector/static/js/787.13cc4c64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df42a42d.css",
-    "static/js/main.a2374fb0.js"
+    "static/js/main.a5c4cee4.js"
   ]
 }
