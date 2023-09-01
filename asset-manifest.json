@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sayyedmahdi/EmailTypeDetector/static/css/main.df42a42d.css",
+    "main.js": "/sayyedmahdi/EmailTypeDetector/static/js/main.a2374fb0.js",
+    "static/js/787.13cc4c64.chunk.js": "/sayyedmahdi/EmailTypeDetector/static/js/787.13cc4c64.chunk.js",
+    "index.html": "/sayyedmahdi/EmailTypeDetector/index.html",
+    "main.df42a42d.css.map": "/sayyedmahdi/EmailTypeDetector/static/css/main.df42a42d.css.map",
+    "main.a2374fb0.js.map": "/sayyedmahdi/EmailTypeDetector/static/js/main.a2374fb0.js.map",
+    "787.13cc4c64.chunk.js.map": "/sayyedmahdi/EmailTypeDetector/static/js/787.13cc4c64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df42a42d.css",
+    "static/js/main.a2374fb0.js"
+  ]
+}
